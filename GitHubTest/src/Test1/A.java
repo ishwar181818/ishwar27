@@ -18,6 +18,12 @@ public class A {
 
 		System.out.println("Ok Received");
 
+		System.out.println("Switch to master ");
+		
+		System.out.println("Got master doYou get");
+
+		System.out.println("Again");
+
 		
 	}
 	
