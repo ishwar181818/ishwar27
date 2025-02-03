@@ -9,6 +9,18 @@ public class A {
 		System.out.println("want To Push The code on another branch ");
 
 		System.out.println("Not done  ");
+		
+		System.out.println("Created new Branh Dev -main");
+		
+		System.out.println("Done second Time on dev -main");
+
+		System.out.println("Now Pull the code on dev main");
+
+		System.out.println("Ok Received");
+
+		System.out.println("Switch to master ");
+		
+		System.out.println("Got master doYou get");
 
 		
 	}
