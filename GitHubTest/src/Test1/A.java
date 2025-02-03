@@ -22,6 +22,8 @@ public class A {
 		
 		System.out.println("Got master doYou get");
 
+		System.out.println("Again");
+
 		
 	}
 	
